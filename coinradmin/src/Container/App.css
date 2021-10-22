@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.header-menu{
+  height: 50px;
+}
+.header-menu li a{
+  color: white;
+  margin: 30px;
+  line-height: 3;
+}
